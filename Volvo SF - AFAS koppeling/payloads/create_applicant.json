@@ -1,0 +1,24 @@
+{
+    "HrCreateApplicant": {
+      "Element": {
+        "Fields": {
+          "VcSn": "tbd",
+          "In": "Initials",
+          "FiNm": "first-name",
+          "CaNm": "first-name",
+          "LaNm": "last-name",
+          "ViGe": "gender",
+          "DaBi": "date-of-birth", 
+          "EmAd": "email-address", 
+          "EmA2": "email-address", 
+          "MbN2": "phone-number",
+          "Ad": "address3",
+          "HmNr": "address4",
+          "HmAd": "address5",
+          "ZpCd": "zip-code",
+          "Rs": "city",
+          "UA4A5E66C5CC346D98F04422A59E041AE": "userid"
+        }
+      }
+    }
+  }

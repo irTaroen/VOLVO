@@ -1,0 +1,22 @@
+{
+    "AfasEmployee": {
+      "Element": {
+        "@EmId": "020464",
+        "Objects": [
+          {
+            "AfasBankInfo": {
+              "Element": {
+                "Fields": {
+                  "SaAc": true,
+                  "CoId": "NL",
+                  "IbCk": true,
+                  "Iban": "NL65KASA0480214727",
+                  "Bic": "INGBNL2A"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "AfasEmployee": {
+      "Element": {
+       "@EmId": "AFAS employee ID",
+        "Objects": [
+          {
+            "KnPerson": {
+              "Element": {
+                "Fields": {
+                  "FiNm": "First name",
+                  "In": "Initials",
+                  "LaNm": "Last name",
+                  "NmPa": "Partner Name",
+                  "ViCs": "marital status",
+                  "DaMa": "Mariage Date",
+                  "DaDi": "Divore Date",
+                  "DaDe": "Deceased Date",
+                  "MbNr": "Mobile work",
+                  "MbN2": "Mobile private",
+                  "EmAd": "Email work",
+                  "EmA2": "Email private"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

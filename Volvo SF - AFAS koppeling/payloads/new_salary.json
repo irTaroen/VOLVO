@@ -1,0 +1,22 @@
+{
+    "AfasEmployee": {
+      "Element": {
+        "@EmId": "AFAS employee ID",
+        "Objects": [
+          {
+            "AfasSalary": {
+              "Element": {
+                "@DaBe": "Start date new salary",
+                "Fields": {
+                  "SaPe": "Salary Type",
+                  "EmSa": "Salary amount",
+                  "PtId": 5,
+                  "SaYe": "Anual Wage Special Rate"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
