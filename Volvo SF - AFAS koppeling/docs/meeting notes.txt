@@ -1,0 +1,38 @@
+- document bij dossieritem na mutatie -> Dossier arbeidsvoorwaarden (35)
+- Vacancies in SF -> map with AFAS? Or Duplicate>
+- Import functies vanuit SF
+- Salary grade InSite
+- Organigram en manager change
+- Buitenlandse manager -> Workflows naar local manager
+- Functieschalen inrichten
+- Autovoorziening
+- Rehire json
+- Adress change in review, what happens to adress line?
+
+
+- Person id instead of user id
+
+1. Personal change
+2. Adress change
+3. Bankrekening verandering
+4. Timetable change
+5. Salaris verandering
+6. Functie verandering
+7. Formatieverandering
+8. Contract change
+9. Termination
+10. Rehire
+11. Aanmaken sollicitant -> Nummer range voor vacancies
+
+Processen:
+1.Personal Change: last name, gender, nationaliteit
+2.Adress change:
+3. Bankrekening: Accout number bankrekening
+4. Timetable: Komt te vervallen
+5. Salaris: yearly salary (auto moet met functie mee)
+6. Functiewijzing: Vrij veld (business area), blue collar, auto
+7. Formatieverandering: alternative costs distribution
+8. Contract verandering
+9. Termination: Resignation = aangezegd op, Uitdienst een maand later. Uitdienst betaling een maand later. Workflow uit dienst starten.
+10.Rehire: Indienstmelden, contract, salaris, rooster, functie, formatie.  
+Check: Tablad Overige

@@ -1,28 +1,28 @@
 {
-    "AfasEmployee": {
-      "Element": {
-        "@EmId": "AFAS employee ID",
-        "Objects": [
-          {
-            "AfasContract": {
-              "Element": {
-                "@DaBe": "Start Date New Contract",
-                "Fields": {
-                  "ClId": "CLA code",
-                  "WcId": "Conditions of employement code",
-                  "ApCo": "Type of contract code",
-                  "CmId": "Employer ID",
-                  "EmMt": "Employee type code",
-                  "DbYs": "Seniority Date",
-                  "ViEt": "Employement type code",
-                  "ViTo": "Probation Period type",
-                  "DaSc": "Start Date Contract Chain",
-                  "ViKe": "Contract Chain Type"
-                }
+  "AfasEmployee": {
+    "Element": {
+      "@EmId": "AFAS employee ID",
+      "Objects": [
+        {
+          "AfasContract": {
+            "Element": {
+              "@DaBe": "Start Date New Contract",
+              "Fields": {
+                "ClId": "CLA code",
+                "WcId": "Conditions of employement code",
+                "ApCo": "Type of contract code",
+                "CmId": "Employer ID",
+                "EmMt": "Employee type code",
+                "DbYs": "Seniority Date",
+                "ViEt": "Employement type code",
+                "ViTo": "Probation Period type",
+                "DaSc": "Start Date Contract Chain",
+                "ViKe": "Contract Chain Type"
               }
             }
           }
-        ]
-      }
+        }
+      ]
     }
   }
+}

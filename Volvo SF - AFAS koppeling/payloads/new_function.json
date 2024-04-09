@@ -1,27 +1,24 @@
 {
-    "AfasEmployee": {
-      "Element": {
-        "@EmId": "AFAS employee ID",
-        "Objects": [
-          {
-            "AfasOrgunitFunction": {
-              "Element": {
-                "@DaBe": "Start Date New Function",
-                "Fields": {
-                  "DpId": "Organizational Unit",
-                  "FuId": "Function Code",
-                  "CcId": "Profit",
-                  "CrId": "Cost Center Code",
-                  "U139F822B4F0F8817FC00968B59CAEF24": "Company Phone",
-                  "U8B46EC444562ED8C5A0E388E8BD7A3B7": "Company Laptop",
-                  "UAC575F644768F5F0BFA8F4BA2D90FE54": "Company Car",
-                  "UF4DED243478C4B07D3782CA52373B4AB": "Company iPad",
-                  "U9F6B664B4D6F4F2B6B9DB8A0A9174489": "Foreign Team Lead"
-                }
+  "AfasEmployee": {
+    "Element": {
+      "@EmId": "AFAS employee ID",
+      "Objects": [
+        {
+          "AfasOrgunitFunction": {
+            "Element": {
+              "@DaBe": "Start Date New Function",
+              "Fields": {
+                "DpId": "Organizational Unit",
+                "FuId": "Function Code",
+                "CcId": "Profit",
+                "CrId": "Cost Center Code",
+                "UAC575F644768F5F0BFA8F4BA2D90FE54": "Company Car",
+                "U9F6B664B4D6F4F2B6B9DB8A0A9174489": "Foreign Team Lead"
               }
             }
           }
-        ]
-      }
+        }
+      ]
     }
   }
+}
