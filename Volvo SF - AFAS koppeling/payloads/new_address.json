@@ -8,7 +8,7 @@
               "Element": {
                 "Fields": {
                   "MatchPer": "0",
-                  "BcCo": "AFAS person ID"
+                  "BcCo": "AFAS employee ID"
                 },
                 "Objects": [
                   {
@@ -16,6 +16,23 @@
                       "Element": {
                         "Fields": {
                           "CoId": "country code",
+                          "PbAd": false,
+                          "Ad": "Street Name",
+                          "HmNr": "House Number",
+                          "HmAd": "Addition House Number",
+                          "ZpCd": "Zip code",
+                          "Rs": "City",
+                          "BeginDate": "Start Date New Address"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "KnBasicAddressPad": {
+                      "Element": {
+                        "Fields": {
+                          "CoId": "country code",
+                          "PbAd": false,
                           "Ad": "Street Name",
                           "HmNr": "House Number",
                           "HmAd": "Addition House Number",

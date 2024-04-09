@@ -1,0 +1,62 @@
+{
+    "AfasEmployee": {
+      "Element": {
+        "@EmId": "010221",
+        "Objects": [
+          {
+            "KnPerson": {
+              "Element": {
+                "Fields": {
+                  "MatchPer": "0",
+                  "BcCo": "010221"
+                }
+              }
+            }
+          },
+          {
+            "AfasOrgunitFunction": {
+              "Element": {
+                "@DaBe": "2024-04-01",
+                "Fields": {
+                  "DpId": "AAA300",
+                  "FuId": "5002",
+                  "CcId": "Profit",
+                  "CrId": "100040"
+                },
+                "Objects": [
+                  {
+                    "AfasSalaryCost": {
+                      "Element": [
+                        {
+                          "@TdSn": null,
+                          "Fields": {
+                            "DpId": "AAA300",
+                            "FuId": "5002",
+                            "CcId": "Profit",
+                            "CrId": "100040",
+                            "Perc": "60",
+                            "FpId": ""
+                          }
+                        },
+                        {
+                          "@TdSn": null,
+                          "Fields": {
+                            "DpId": "AAL301",
+                            "FuId": "5001",
+                            "CcId": "Profit",
+                            "CrId": "100327",
+                            "Perc": "40",
+                            "FpId": ""
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

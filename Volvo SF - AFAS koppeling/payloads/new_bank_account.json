@@ -8,34 +8,22 @@
             "Element": {
               "Fields": {
                 "MatchPer": "0",
-                "BcCo": "AFAS person ID"
+                "BcCo": "AFAS employee ID"
               },
               "Objects": [
                 {
                   "KnBankAccount": {
                     "Element": {
                       "Fields": {
-                        "CoId": "country code",
+                        "CoId": "Bank Country Code",
                         "Iban": "iban",
-                        "Bic": "bic"
+                        "Bic": "bic",
+                        "BaNm": "Bank Name"
                       }
                     }
                   }
                 }
               ]
-            }
-          }
-        },
-        {
-          "AfasBankInfo": {
-            "Element": {
-              "@NoBk": true,
-              "Fields": {
-                "SaAc": true,
-                "CoId": "country code",
-                "Iban": "iban",
-                "Bic": "bic"
-              }
             }
           }
         }

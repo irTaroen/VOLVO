@@ -4,6 +4,16 @@
       "@EmId": "AFAS employee ID",
       "Objects": [
         {
+          "KnPerson": {
+            "Element": {
+              "Fields": {
+                "MatchPer": "0",
+                "BcCo": "AFAS employee ID"
+              }
+            }
+          }
+        },
+        {
           "AfasOrgunitFunction": {
             "Element": {
               "@DaBe": "Start Date New Function",
@@ -12,8 +22,7 @@
                 "FuId": "Function Code",
                 "CcId": "Profit",
                 "CrId": "Cost Center Code",
-                "UAC575F644768F5F0BFA8F4BA2D90FE54": "Company Car",
-                "U9F6B664B4D6F4F2B6B9DB8A0A9174489": "Foreign Team Lead"
+                "UAC575F644768F5F0BFA8F4BA2D90FE54": "Company Car"
               }
             }
           }

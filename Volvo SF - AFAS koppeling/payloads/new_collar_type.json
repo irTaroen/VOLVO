@@ -1,0 +1,10 @@
+{
+    "AfasEmployee": {
+      "Element": {
+        "@EmId": "AFAS employee ID",
+        "Fields": {
+          "UFC4153C2423DF2DE5DD96B85B1DFCF95": "Collar Type Code"
+        }
+      }
+    }
+  }

@@ -1,22 +1,32 @@
 {
-    "AfasEmployee": {
-      "Element": {
-        "@EmId": "AFAS employee ID",
-        "Objects": [
-          {
-            "AfasSalary": {
-              "Element": {
-                "@DaBe": "Start date new salary",
-                "Fields": {
-                  "SaPe": "Salary Type",
-                  "EmSa": "Salary amount",
-                  "PtId": 5,
-                  "SaYe": "Anual Wage Special Rate"
-                }
+  "AfasEmployee": {
+    "Element": {
+      "@EmId": "AFAS employee ID",
+      "Objects": [
+        {
+          "KnPerson": {
+            "Element": {
+              "Fields": {
+                "MatchPer": "0",
+                "BcCo": "AFAS employee ID"
               }
             }
           }
-        ]
-      }
+        },
+        {
+          "AfasSalary": {
+            "Element": {
+              "@DaBe": "New Salary Start Date",
+              "Fields": {
+                "SaPe": "Salary Type Code",
+                "EmSa": "Salary Amount",
+                "PtId": 5,
+                "SaYe": "Anual Salary BT"
+              }
+            }
+          }
+        }
+      ]
     }
   }
+}

@@ -1,0 +1,10 @@
+{
+    "AfasEmployee": {
+      "Element": {
+        "@EmId": "AFAS employee ID",
+        "Fields": {
+          "ViSe": "I"
+        }
+      }
+    }
+  }
