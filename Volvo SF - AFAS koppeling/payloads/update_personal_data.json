@@ -7,14 +7,16 @@
             "KnPerson": {
               "Element": {
                 "Fields": {
+                  "MatchPer": "0",
+                  "BcCo": "AFAS person ID",
+                  "SeNm": "First name",
                   "FiNm": "First name",
                   "In": "Initials",
                   "LaNm": "Last name",
+                  "PsNa": "Nationality Country Code",
+                  "IsPa": "Prefix partner name",
                   "NmPa": "Partner Name",
                   "ViCs": "marital status",
-                  "DaMa": "Mariage Date",
-                  "DaDi": "Divore Date",
-                  "DaDe": "Deceased Date",
                   "MbNr": "Mobile work",
                   "MbN2": "Mobile private",
                   "EmAd": "Email work",

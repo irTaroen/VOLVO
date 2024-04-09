@@ -1,0 +1,36 @@
+{
+    "AfasEmployee": {
+      "Element": {
+        "@EmId": "AFAS employee ID",
+        "Objects": [
+          {
+            "KnPerson": {
+              "Element": {
+                "Fields": {
+                  "MatchPer": "0",
+                  "BcCo": "AFAS person ID"
+                },
+                "Objects": [
+                  {
+                    "KnBasicAddressAdr": {
+                      "Element": {
+                        "Fields": {
+                          "CoId": "country code",
+                          "Ad": "Street Name",
+                          "HmNr": "House Number",
+                          "HmAd": "Addition House Number",
+                          "ZpCd": "Zip code",
+                          "Rs": "City",
+                          "BeginDate": "Start Date New Address"
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

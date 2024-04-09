@@ -1,22 +1,45 @@
 {
-    "AfasEmployee": {
-      "Element": {
-        "@EmId": "020464",
-        "Objects": [
-          {
-            "AfasBankInfo": {
-              "Element": {
-                "Fields": {
-                  "SaAc": true,
-                  "CoId": "NL",
-                  "IbCk": true,
-                  "Iban": "NL65KASA0480214727",
-                  "Bic": "INGBNL2A"
+  "AfasEmployee": {
+    "Element": {
+      "@EmId": "AFAS employee ID",
+      "Objects": [
+        {
+          "KnPerson": {
+            "Element": {
+              "Fields": {
+                "MatchPer": "0",
+                "BcCo": "AFAS person ID"
+              },
+              "Objects": [
+                {
+                  "KnBankAccount": {
+                    "Element": {
+                      "Fields": {
+                        "CoId": "country code",
+                        "Iban": "iban",
+                        "Bic": "bic"
+                      }
+                    }
+                  }
                 }
+              ]
+            }
+          }
+        },
+        {
+          "AfasBankInfo": {
+            "Element": {
+              "@NoBk": true,
+              "Fields": {
+                "SaAc": true,
+                "CoId": "country code",
+                "Iban": "iban",
+                "Bic": "bic"
               }
             }
           }
-        ]
-      }
+        }
+      ]
     }
   }
+}
