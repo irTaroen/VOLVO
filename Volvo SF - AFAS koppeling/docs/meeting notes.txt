@@ -31,7 +31,7 @@ Processen:
 5. Salaris: DONE. Jaarloon BT: Approx 13x previous monthly gross salary
 6. Functiewijzing: DONE
 8. Contract verandering:
-09. Rehire: Indienst melden, contract, salaris, functie, formatie.  
+9. Rehire: Indienst melden, contract, salaris, functie, formatie.  
 7. Formatieverandering: Werkt nog niet
 3. Bankrekening: Bankrekening Toevoegen. DONE
 10. Termination: Resignation = Workflow uit dienst starten.
