@@ -9,22 +9,36 @@
               "Fields": {
                 "MatchPer": "0",
                 "BcCo": "AFAS employee ID"
-              },
-              "Objects": [
-                {
-                  "KnBankAccount": {
-                    "Element": {
-                      "Fields": {
-                        "CoId": "Bank Country Code",
-                        "Iban": "iban",
-                        "Bic": "bic",
-                        "BaNm": "Bank Name"
-                      }
-                    }
-                  }
-                }
-              ]
+              }
             }
+          }
+        },
+        {
+          "AfasBankInfo": {
+            "Element": [
+              {
+                "@AcId": "Banc Account OLD",
+                "@NoBk": false,
+                "Fields": {
+                  "SaAc": false,
+                  "CoId": "NL",
+                  "IbCk": true,
+                  "Iban": "IBAN OLD",
+                  "Bic": "BIC OLD"
+                }
+              },
+              {
+                "@AcId": "Bank Account NEW",
+                "@NoBk": false,
+                "Fields": {
+                  "SaAc": true,
+                  "CoId": "NL",
+                  "IbCk": true,
+                  "Iban": "IBAN NEW",
+                  "Bic": "BIC NEW"
+                }
+              }
+            ]
           }
         }
       ]

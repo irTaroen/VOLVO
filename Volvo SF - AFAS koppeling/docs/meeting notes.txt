@@ -33,7 +33,7 @@ Processen:
 8. Contract verandering:
 09. Rehire: Indienst melden, contract, salaris, functie, formatie.  
 7. Formatieverandering: Werkt nog niet
-3. Bankrekening: Voegt bankrekening toe, maar maakt geen nieuwe regel
+3. Bankrekening: Bankrekening Toevoegen. DONE
 10. Termination: Resignation = Workflow uit dienst starten.
 11. Documenten genereren
 
