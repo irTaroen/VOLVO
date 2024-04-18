@@ -46,7 +46,10 @@ Doelen Meeting 18-04-2023
 1. Overzicht SF-AFAS
 2. Uitdienst treding -> taak
 3. Document genereren per mutatie
-4. Jaarloon BT
-5. Bonussen
-6. Planning: Wanneer doen we wat
-7. Dagen in Juni
+4. Vacatures: testen met 1 openstaande vacature
+5. Jaarloon BT
+6. Bonussen
+7. Planning: Wanneer doen we wat
+8. Dagen in Juni
+9. Rooster testen bij rehire
+10. Location groep toevoegen aan functie payload
