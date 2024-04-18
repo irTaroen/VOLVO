@@ -2,6 +2,10 @@
   "AfasEmployee": {
     "Element": {
       "@EmId": "AFAS employee ID",
+      "Fields": {
+        "U32F8A9F34FBFCC3A21D097AFA13AE67A": "Business Area Code",
+        "UFC4153C2423DF2DE5DD96B85B1DFCF95": "Collar Type Code"
+      },
       "Objects": [
         {
           "KnPerson": {

@@ -1,0 +1,5 @@
+testenvironment = {
+    'omgeving': 81123,
+    'token_decoded':'<token><version>1</version><data>04ACF6182C114CA9BBBCEAE482494B3AC2533BE9D1184AC58BEBB807BF9DB344</data></token>',
+    'token_encoded':'PHRva2VuPjx2ZXJzaW9uPjE8L3ZlcnNpb24+PGRhdGE+MDRBQ0Y2MTgyQzExNENBOUJCQkNFQUU0ODI0OTRCM0FDMjUzM0JFOUQxMTg0QUM1OEJFQkI4MDdCRjlEQjM0NDwvZGF0YT48L3Rva2VuPg=='
+}

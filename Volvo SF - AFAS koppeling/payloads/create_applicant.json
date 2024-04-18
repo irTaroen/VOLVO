@@ -12,6 +12,7 @@
           "EmAd": "email-address", 
           "EmA2": "email-address", 
           "MbN2": "phone-number",
+          "CoId": "Country ID",
           "Ad": "address3",
           "HmNr": "address4",
           "HmAd": "address5",
