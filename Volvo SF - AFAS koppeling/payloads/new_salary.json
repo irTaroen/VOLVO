@@ -21,7 +21,8 @@
                 "SaPe": "Salary Type Code",
                 "EmSa": "Salary Amount",
                 "PtId": 5,
-                "SaYe": "Anual Salary BT"
+                "SaYe": "Anual Salary BT",
+                "U9D45CA7AD73746B99B89CCCA31E4DEE7": "SAP Salary Scale"
               }
             }
           }

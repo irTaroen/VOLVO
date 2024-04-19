@@ -9,15 +9,13 @@
               "@DaBe": "Start Date New Contract",
               "Fields": {
                 "ClId": "CLA code",
-                "WcId": "Conditions of employement code",
+                "WcId": "VGN",
                 "ApCo": "Type of contract code",
+                "DaEn": "Contract End Date",
                 "CmId": "Employer ID",
                 "EmMt": "Employee type code",
                 "DbYs": "Seniority Date",
-                "ViEt": "Employement type code",
-                "ViTo": "Probation Period type",
-                "DaSc": "Start Date Contract Chain",
-                "ViKe": "Contract Chain Type"
+                "ViEt": "Employement type code"
               }
             }
           }
