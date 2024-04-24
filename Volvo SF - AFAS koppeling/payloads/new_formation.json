@@ -1,14 +1,14 @@
 {
   "AfasEmployee": {
     "Element": {
-      "@EmId": "TVB",
+      "@EmId": "010221",
       "Objects": [
         {
           "KnPerson": {
             "Element": {
               "Fields": {
                 "MatchPer": "0",
-                "BcCo": "1000074"
+                "BcCo": "010221"
               }
             }
           }
@@ -16,10 +16,12 @@
         {
           "AfasOrgunitFunction": {
             "Element": {
-              "@DaBe": "2020-07-01",
+              "@DaBe": "2024-05-01",
               "Fields": {
-                "DpId": "005",
-                "FuId": "DIR"
+                "DpId": "AAA300",
+                "FuId": "5002",
+                "CcId": "Profit",
+                "CrId": "100040"
               },
               "Objects": [
                 {
@@ -28,17 +30,23 @@
                       {
                         "@TdSn": 1,
                         "Fields": {
-                          "DpId": "005",
-                          "FuId": "DIR",
-                          "Perc": "70"
+                          "DpId": "AAA300",
+                          "FuId": "5002",
+                          "CcId": "Profit",
+                          "CrId": "100040",
+                          "Perc": "60",
+                          "FpId": ""
                         }
                       },
                       {
                         "@TdSn": 2,
                         "Fields": {
-                          "DpId": "001",
-                          "FuId": "DIR",
-                          "Perc": "30"
+                          "DpId": "AAL301",
+                          "FuId": "5001",
+                          "CcId": "Profit",
+                          "CrId": "100327",
+                          "Perc": "40",
+                          "FpId": ""
                         }
                       }
                     ]

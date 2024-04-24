@@ -5,7 +5,8 @@
       "Fields": {
         "U32F8A9F34FBFCC3A21D097AFA13AE67A": "Business Area Code",
         "UFC4153C2423DF2DE5DD96B85B1DFCF95": "Collar Type Code",
-        "UDDCDAF0444878FAE3D8FC9AD99BFE7CA": "Location group Code"
+        "UDDCDAF0444878FAE3D8FC9AD99BFE7CA": "Location group Code",
+        "U45C0AFF741A947FD923659FCF0D07CBD": "SAP Salary scale"
       },
       "Objects": [
         {
@@ -26,8 +27,7 @@
                 "DpId": "Organizational Unit",
                 "FuId": "Function Code",
                 "CcId": "Profit",
-                "CrId": "Cost Center Code",
-                "UAC575F644768F5F0BFA8F4BA2D90FE54": "Company Car"
+                "CrId": "Cost Center Code"
               }
             }
           }

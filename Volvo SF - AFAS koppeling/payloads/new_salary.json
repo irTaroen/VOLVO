@@ -14,6 +14,15 @@
           }
         },
         {
+          "AfasOrgunitFunction": {
+            "Element": {
+              "Fields": {
+                "UAC575F644768F5F0BFA8F4BA2D90FE54": "03 for Yes, 01 for No"
+              }
+            }
+          }
+        },
+        {
           "AfasSalary": {
             "Element": {
               "@DaBe": "New Salary Start Date",
@@ -21,8 +30,7 @@
                 "SaPe": "Salary Type Code",
                 "EmSa": "Salary Amount",
                 "PtId": 5,
-                "SaYe": "Anual Salary BT",
-                "U9D45CA7AD73746B99B89CCCA31E4DEE7": "SAP Salary Scale"
+                "SaYe": "Anual Salary BT"
               }
             }
           }

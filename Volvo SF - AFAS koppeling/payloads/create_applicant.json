@@ -2,7 +2,7 @@
     "HrCreateApplicant": {
       "Element": {
         "Fields": {
-          "VcSn": "104",
+          "VcSn": "tbd",
           "In": "Initials",
           "FiNm": "first-name",
           "CaNm": "first-name",
