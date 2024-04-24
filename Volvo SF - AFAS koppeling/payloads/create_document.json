@@ -1,0 +1,23 @@
+{
+    "KnSubject": {
+      "Element": {
+        "Fields": {
+          "StId": 8,
+          "Ds": "SAP Integration",
+          "FvF1": 207
+        },
+        "Objects": [
+          {
+            "KnSubjectLink": {
+              "Element": {
+                "Fields": {
+                  "ToEm": true,
+                  "BcId": "AFAS employee ID"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

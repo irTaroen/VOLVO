@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<HrVarValue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Element>
+		<Fields Action="insert">
+			<VaId>103604</VaId>
+			<Va>100</Va>
+			<EmId>FloorA</EmId>
+			<DaBe>2013-01-01</DaBe>
+		</Fields>
+	</Element>
+</HrVarValue>
