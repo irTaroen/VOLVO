@@ -1,15 +1,12 @@
 {
-  "HrCompMut": {
+  "HrVarValue": {
     "Element": {
-      "@PtId": 5,
-      "@Year": "Year",
-      "@PeId": "Month",
-      "@DaTi": "Date (First of the month) yyyy-mm-dd",
-      "@EmId": "AFAS employee ID",
-      "@ErId": "Legal entity code",
-      "@Sc02": 1054,
       "Fields": {
-        "VaD1": "Amount active allowance"
+        "VaId": 105401,
+        "Va": "Active allowance amount",
+        "EmId": "AFAS employee ID",
+        "DaBe": "Start Date",        
+        "DaEn": "End Date"
       }
     }
   }
