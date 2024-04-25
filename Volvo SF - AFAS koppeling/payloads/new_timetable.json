@@ -1,0 +1,33 @@
+{
+    "AfasEmployee": {
+      "Element": {
+        "@EmId": "AFAS employee ID",
+        "Objects": [
+          {
+            "KnPerson": {
+              "Element": {
+                "Fields": {
+                  "MatchPer": "0",
+                  "BcCo": "AFAS employee ID"
+                }
+              }
+            }
+          },
+          {
+            "AfasTimeTable": {
+              "Element": {
+                "@DaBg": "Start Date Timetable",
+                "Fields": {
+                  "EtTy": "5",
+                  "DyWk": "5",
+                  "HrWk": "Hours per week",
+                  "PcPt": "FTE percentage (between 0 and 100)",
+                  "Ft": "FTE (between 0 and 1)"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

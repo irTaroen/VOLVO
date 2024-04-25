@@ -1,14 +1,14 @@
 {
   "AfasEmployee": {
     "Element": {
-      "@EmId": "010221",
+      "@EmId": "AFAS employee ID",
       "Objects": [
         {
           "KnPerson": {
             "Element": {
               "Fields": {
                 "MatchPer": "0",
-                "BcCo": "010221"
+                "BcCo": "AFAS employee ID"
               }
             }
           }
@@ -16,12 +16,12 @@
         {
           "AfasOrgunitFunction": {
             "Element": {
-              "@DaBe": "2024-05-01",
+              "@DaBe": "Start Date",
               "Fields": {
-                "DpId": "AAA300",
-                "FuId": "5002",
-                "CcId": "Profit",
-                "CrId": "100040"
+                "DpId": "Org Unit Code",
+                "FuId": "Position Code",
+                "CcId": "Cost Unit Code",
+                "CrId": "Cost Center Code"
               },
               "Objects": [
                 {
@@ -30,22 +30,22 @@
                       {
                         "@TdSn": 1,
                         "Fields": {
-                          "DpId": "AAA300",
-                          "FuId": "5002",
-                          "CcId": "Profit",
-                          "CrId": "100040",
-                          "Perc": "60",
+                          "DpId": "Org Unit Code",
+                          "FuId": "Position Code",
+                          "CcId": "Cost Unit Code",
+                          "CrId": "Cost Center Code",
+                          "Perc": "Percentage",
                           "FpId": ""
                         }
                       },
                       {
                         "@TdSn": 2,
                         "Fields": {
-                          "DpId": "AAL301",
-                          "FuId": "5001",
-                          "CcId": "Profit",
-                          "CrId": "100327",
-                          "Perc": "40",
+                          "DpId": "Org Unit Code",
+                          "FuId": "Position Code",
+                          "CcId": "Cost Unit Code",
+                          "CrId": "Cost Center Code",
+                          "Perc": "Percentage",
                           "FpId": ""
                         }
                       }
