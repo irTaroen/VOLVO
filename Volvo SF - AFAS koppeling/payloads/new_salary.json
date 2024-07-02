@@ -16,7 +16,10 @@
         {
           "AfasOrgunitFunction": {
             "Element": {
+              "@DaBe": "Current Function Start Date",
               "Fields": {
+                "DpId": "Department ID",
+                "FuId": "Function ID",
                 "UAC575F644768F5F0BFA8F4BA2D90FE54": "03 for Yes, 01 for No"
               }
             }
@@ -30,7 +33,7 @@
                 "SaPe": "Salary Type Code",
                 "EmSa": "Salary Amount",
                 "PtId": 5,
-                "SaYe": "Anual Salary BT"
+                "SaYe": 0
               }
             }
           }
