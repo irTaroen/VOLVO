@@ -1,24 +1,15 @@
 {
-    "HrCreateApplicant": {
-      "Element": {
-        "Fields": {
-          "VcSn": "104",
-          "In": "Initials",
-          "FiNm": "first-name",
-          "CaNm": "first-name",
-          "LaNm": "last-name",
-          "ViGe": "gender",
-          "DaBi": "date-of-birth", 
-          "EmAd": "email-address", 
-          "EmA2": "email-address", 
-          "MbN2": "phone-number",
-          "CoId": "Country ID",
-          "Ad": "address3",
-          "HmNr": "address4",
-          "HmAd": "address5",
-          "ZpCd": "zip-code",
-          "Rs": "city"
-        }
+  "HrCreateApplicant": {
+    "Element": {
+      "Fields": {
+        "VcSn": 53,
+        "CaNm": "First Name",
+        "FiNm": "First Name",
+        "LaNm": "Last Name",
+        "EmAd": "email-adress (private)",
+        "EmA2": "email-adress (private)",
+        "MbN2": "Mobile Number"
       }
     }
   }
+}

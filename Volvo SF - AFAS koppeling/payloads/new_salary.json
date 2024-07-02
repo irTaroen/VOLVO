@@ -2,25 +2,16 @@
   "AfasEmployee": {
     "Element": {
       "@EmId": "AFAS employee ID",
+      "Fields": {
+        "U4CB0AA7282D0473398D1811BEC9DF7EE": "03 (yes) 01 (no)"
+      },
       "Objects": [
-        {
+        { 
           "KnPerson": {
             "Element": {
               "Fields": {
                 "MatchPer": "0",
                 "BcCo": "AFAS employee ID"
-              }
-            }
-          }
-        },
-        {
-          "AfasOrgunitFunction": {
-            "Element": {
-              "@DaBe": "Current Function Start Date",
-              "Fields": {
-                "DpId": "Department ID",
-                "FuId": "Function ID",
-                "UAC575F644768F5F0BFA8F4BA2D90FE54": "03 for Yes, 01 for No"
               }
             }
           }
@@ -33,7 +24,7 @@
                 "SaPe": "Salary Type Code",
                 "EmSa": "Salary Amount",
                 "PtId": 5,
-                "SaYe": 0
+                "SaYe": "0"
               }
             }
           }

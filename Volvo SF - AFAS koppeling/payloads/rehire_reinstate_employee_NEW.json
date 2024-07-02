@@ -1,0 +1,85 @@
+{
+  "AfasEmployee": {
+    "Element": {
+      "@EmId": "AFAS employee ID",
+      "Fields": {
+        "ViSe": "I",
+        "Bl": false,
+        "U32F8A9F34FBFCC3A21D097AFA13AE67A": "Business Area Code",
+        "UDDCDAF0444878FAE3D8FC9AD99BFE7CA": "BLocation group Code",
+        "UFC4153C2423DF2DE5DD96B85B1DFCF95": "Collar Type Code",
+        "U4CB0AA7282D0473398D1811BEC9DF7EE": "Company car. 03 for Yes, 01 for No"
+      },
+      "Objects": [
+        {
+          "KnPerson": {
+            "Element": {
+              "Fields": {
+                "MatchPer": "0",
+                "BcCo": "AFAS person ID"
+              }
+            }
+          }
+        },
+        {
+          "AfasContract": {
+            "Element": {
+              "@DaBe": "Start Date New Contract",
+              "Fields": {
+                "ClId": "CLA code",
+                "WcId": "Conditions of employement code",
+                "ApCo": "Type of contract code",
+                "DaEn": "Contract End Date",
+                "CmId": "Employer ID",
+                "EmMt": "Employee type code",
+                "DbYs": "Seniority Date",
+                "ViEt": "Employement type code"
+              }
+            }
+          }
+        },
+        {
+          "AfasOrgunitFunction": {
+            "Element": {
+              "@DaBe": "Start Date New Function",
+              "Fields": {
+                "DpId": "Organizational Unit",
+                "FuId": "Function Code",
+                "CcId": "Profit",
+                "CrId": "Cost Center Code",
+                "U45C0AFF741A947FD923659FCF0D07CBD": "SAP Salary scale"
+              }
+            }
+          }
+        },
+        {
+          "AfasTimeTable": {
+            "Element": {
+              "@DaBg": "Start Date Timetable",
+              "Fields": {
+                "EtTy": "5",
+                "DyWk": "5",
+                "HrWk": "Hours per week",
+                "PcPt": "FTE percentage (between 0 and 100)",
+                "Ft": "FTE (between 0 and 1)"
+              }
+            }
+          }
+        },
+        {
+          "AfasSalary": {
+            "Element": {
+              "@DaBe": "New Salary Start Date",
+              "Fields": {
+                "SaPe": "Salary Type Code",
+                "EmSa": "Salary Amount",
+                "PtId": 5,
+                "SaYe": "0"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
