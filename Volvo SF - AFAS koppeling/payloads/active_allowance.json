@@ -5,7 +5,7 @@
         "VaId": 105401,
         "Va": "Active allowance amount",
         "EmId": "AFAS employee ID",
-        "DaBe": "Start Date",
+        "DaBe": "Start Date",        
         "DaEn": "End Date"
       }
     }
