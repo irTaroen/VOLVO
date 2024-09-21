@@ -1,30 +1,30 @@
 {
-  "AfasEmployee": {
-    "Element": {
-      "@EmId": "AFAS employee ID",
-      "Objects": [
-        {
-          "KnPerson": {
-            "Element": {
-              "Fields": {
-                "MatchPer": "0",
-                "BcCo": "AFAS employee ID",
-                "SeNm": "First name",
-                "FiNm": "First name",
-                "In": "Initials",
-                "LaNm": "Last name",
-                "PsNa": "Nationality Country Code",
-                "ViGe": "Gender Code",
-                "ViCs": "marital status",
-                "MbNr": "Mobile work",
-                "MbN2": "Mobile private",
-                "EmAd": "Email work",
-                "EmA2": "Email private"
+    "AfasEmployee": {
+      "Element": {
+       "@EmId": "AFAS employee ID",
+        "Objects": [
+          {
+            "KnPerson": {
+              "Element": {
+                "Fields": {
+                  "MatchPer": "0",
+                  "BcCo": "AFAS employee ID",
+                  "FiNm": "First Name",
+                  "CaNm": "First Name",
+                  "LaNm": "Last Name",
+                  "NmBi": "Last Name"
+                  "PsNa": "Nationality Country Code",
+                  "ViGe": "Gender Code",
+                  "ViCs": "marital status",
+                  "MbNr": "Mobile work",
+                  "MbN2": "Mobile private",
+                  "EmAd": "Email work",
+                  "EmA2": "Email private"
+                }
               }
             }
           }
-        }
-      ]
+        ]
+      }
     }
   }
-}

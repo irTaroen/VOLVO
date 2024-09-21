@@ -2,9 +2,10 @@
     "KnSubject": {
       "Element": {
         "Fields": {
-          "StId": 8,
-          "Ds": "SAP Integration",
-          "FvF1": "207 of 209"
+          "StId": 13,
+          "Ds": "Medewerker [Employee Name] [AFAS employee ID] uit dienst melden",
+          "SbTx": "Medewerker [AFAS employee ID] gaat uit dienst per [Date of termination]. Reason: [Terminatin reason]",
+          "FvF1": 141
         },
         "Objects": [
           {
@@ -12,7 +13,7 @@
               "Element": {
                 "Fields": {
                   "ToEm": true,
-                  "BcId": "AFAS employee ID"
+                  "BcId": "HR officer AFAS ID"
                 }
               }
             }
