@@ -1,0 +1,10 @@
+PRODUCTIE OMGEVING
+1.	AFAS Token for Production
+2.	Vacany ID for Hire Applicants
+3.	SAP Salary Scale (currently it is U67FB48AC601D44BA998932C6DD4C0976 in Test)
+4.	Car Eligible (currently it is UF60B645DFF164D0AADCE3AED69355E10 in Test)
+5.	Document ID FvF1 for Function(currently it is 220 in Test), Salary (currently it is 220 in Test), and Contract(currently it is 226 in Test).
+
+
+TESTOMGEVING
+1. Vrije velden controleren

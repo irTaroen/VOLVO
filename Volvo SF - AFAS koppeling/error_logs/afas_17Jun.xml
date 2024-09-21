@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <record>
+    <code>500</code>
+    <responseMessage>De werkgever dient gelijk te zijn aan de werkgever van het vorige contract</responseMessage>
+    <employee>00390446</employee>
+    <service>Contract</service>
+    <afasid>010063</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>De werkgever dient gelijk te zijn aan de werkgever van het vorige contract</responseMessage>
+    <employee>00479414</employee>
+    <service>Contract</service>
+    <afasid>010194</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>De werkgever dient gelijk te zijn aan de werkgever van het vorige contract</responseMessage>
+    <employee>00545138</employee>
+    <service>Contract</service>
+    <afasid>020488</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Functie'.</responseMessage>
+    <employee>00390446</employee>
+    <service>Function</service>
+    <afasid>010063</afasid>
+  </record>
+
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Organisatorische eenheid'.</responseMessage>
+    <employee>00490497</employee>
+    <service>Function</service>
+    <afasid>030051</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Organisatorische eenheid'.</responseMessage>
+    <employee>00490497</employee>
+    <service>Function</service>
+    <afasid>030051</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Functie'.</responseMessage>
+    <employee>00508376</employee>
+    <service>Function</service>
+    <afasid>010237</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Functie'.</responseMessage>
+    <employee>00508376</employee>
+    <service>Function</service>
+    <afasid>010237</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>De ingevulde waarde bij 'Organisatie/persoon' bestaat niet.</responseMessage>
+    <employee>00319929</employee>
+    <service>Termination</service>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>De ingevulde waarde bij 'Organisatie/persoon' bestaat niet.</responseMessage>
+    <employee>00473623</employee>
+    <service>Termination</service>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>De ingevulde waarde bij 'Organisatie/persoon' bestaat niet.</responseMessage>
+    <employee>00522677</employee>
+    <service>Termination</service>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>De ingevulde waarde bij 'Organisatie/persoon' bestaat niet.</responseMessage>
+    <employee>00545138</employee>
+    <service>Termination</service>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Organisatorische eenheid'.</responseMessage>
+    <employee>00390473</employee>
+    <service>Salary</service>
+    <afasid>010066</afasid>
+  </record>
+  
+  <record>
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Organisatorische eenheid'.</responseMessage>
+    <employee>00473664</employee>
+    <service>Salary</service>
+    <afasid>030038</afasid>
+  </record>
+
+  <record>
+    <code>500</code>
+    <responseMessage>Vul een waarde in bij 'Organisatorische eenheid'.</responseMessage>
+    <employee>00508376</employee>
+    <service>Salary</service>
+    <afasid>010237</afasid>
+  </record>
+  
+  <record>
+    <code>500</code>
+    <responseMessage>Er is geen organisatie/persoon gevonden die voldoet aan de zoekcriteria.</responseMessage>
+    <employee>00543135</employee>
+    <service>Salary</service>
+    <afasid>010301</afasid>
+  </record>
+  
+  <record>
+    <code>500</code>
+    <responseMessage>De ingevulde waarde bij 'Organisatie/persoon' bestaat niet.</responseMessage>
+    <employee>00543135</employee>
+    <service>Document</service>
+  </record>
+ 

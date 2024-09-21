@@ -1,0 +1,144 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="O5PMFCdE_8Ikorpa8brw">
+    <mxGraphModel dx="1668" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pd-JwSKda_Ql0CktL9ll-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pd-JwSKda_Ql0CktL9ll-2" target="Pd-JwSKda_Ql0CktL9ll-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd-JwSKda_Ql0CktL9ll-2" value="&lt;div&gt;&lt;b&gt;Functie of salariswijziging&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;align=center;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="260" y="287" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd-JwSKda_Ql0CktL9ll-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="593" y="540" as="sourcePoint" />
+            <mxPoint x="593" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pd-JwSKda_Ql0CktL9ll-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Pd-JwSKda_Ql0CktL9ll-14" target="Wle0cx9D_nq5OM3owAtY-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="239" />
+              <mxPoint x="580" y="239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pd-JwSKda_Ql0CktL9ll-14" value="&lt;b&gt;Workflow&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Type: 8&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kenmerk: 220&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Data naar AFAS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- &lt;/b&gt;Stardatum Contract&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- Einddatum Contract&lt;/div&gt;&lt;div&gt;- Type Contact&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Dienstbetrekking&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Functie&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Department&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Salaris&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Company Car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Rooster&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Business Area Code&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Location Group Code&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Collar Type Code&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="421" y="165.75" width="150" height="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pd-JwSKda_Ql0CktL9ll-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="551" y="156" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Wle0cx9D_nq5OM3owAtY-1" target="Wle0cx9D_nq5OM3owAtY-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-14" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Wle0cx9D_nq5OM3owAtY-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint x="-8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wle0cx9D_nq5OM3owAtY-1" target="TlBvJvKio0p1H7mii8Nf-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-17" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TlBvJvKio0p1H7mii8Nf-16" vertex="1" connectable="0">
+          <mxGeometry x="0.0105" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-1" value="&lt;div&gt;Functie =&amp;nbsp;Leerling Bedrijfsautotechnicus&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3BCompany%20Car%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22630%22%20y%3D%22250%22%20width%3D%22150%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="620" y="209" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Wle0cx9D_nq5OM3owAtY-2" target="Wle0cx9D_nq5OM3owAtY-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-10" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Wle0cx9D_nq5OM3owAtY-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.3778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Wle0cx9D_nq5OM3owAtY-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="914" y="224" as="sourcePoint" />
+            <mxPoint x="1084" y="351.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="914" y="314" />
+              <mxPoint x="1399" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-13" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Wle0cx9D_nq5OM3owAtY-12" vertex="1" connectable="0">
+          <mxGeometry x="0.5357" y="2" relative="1" as="geometry">
+            <mxPoint x="-259" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-2" value="&lt;div&gt;Leeftijd &amp;lt;= 21&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="849" y="209" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="755" y="194" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="990" y="194" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wle0cx9D_nq5OM3owAtY-17" target="TlBvJvKio0p1H7mii8Nf-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-17" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Salarisbrief Leerling&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&amp;lt;Opties in document&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1307" y="194" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wle0cx9D_nq5OM3owAtY-19" target="Wle0cx9D_nq5OM3owAtY-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle0cx9D_nq5OM3owAtY-19" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;KIES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Leeftijd&lt;/div&gt;&lt;div&gt;- Opleiding&lt;/div&gt;&lt;div&gt;- Opleding en leeftijd&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1099" y="185.88" width="150" height="106.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TlBvJvKio0p1H7mii8Nf-1" target="TlBvJvKio0p1H7mii8Nf-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Salarisbrief en functiewijziging Dynamisch&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;lt;Opties in document&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1305" y="344" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-6" value="Controles en ondertekenen" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="1557" y="199.01" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TlBvJvKio0p1H7mii8Nf-13" target="TlBvJvKio0p1H7mii8Nf-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-10" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TlBvJvKio0p1H7mii8Nf-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.3667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="TlBvJvKio0p1H7mii8Nf-13" target="TlBvJvKio0p1H7mii8Nf-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="474" />
+              <mxPoint x="1390" y="474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-20" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TlBvJvKio0p1H7mii8Nf-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.6397" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-13" value="&lt;div&gt;Company Car&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="620" y="369" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TlBvJvKio0p1H7mii8Nf-14" target="TlBvJvKio0p1H7mii8Nf-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-14" value="Kies type company car" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="849" y="376.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TlBvJvKio0p1H7mii8Nf-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="750" y="354" width="28" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

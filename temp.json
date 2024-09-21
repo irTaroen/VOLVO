@@ -1,0 +1,78 @@
+{
+  "AfasEmployee": {
+    "Element": {
+      "@EmId": "020040",
+      "Fields": {
+        "ViSe": "I",
+        "Bl": false,
+        "U32F8A9F34FBFCC3A21D097AFA13AE67A": "Business Area Code",
+        "UDDCDAF0444878FAE3D8FC9AD99BFE7CA": "BLocation group Code",
+        "UFC4153C2423DF2DE5DD96B85B1DFCF95": "Collar Type Code"
+      },
+      "Objects": [
+        {
+          "AfasContract": {
+            "Element": {
+              "@DaBe": "Start Date New Contract",
+              "Fields": {
+                "ClId": "CLA code",
+                "WcId": "Conditions of employement code",
+                "ApCo": "Type of contract code",
+                "DaEn": "Contract End Date",
+                "CmId": "Employer ID",
+                "EmMt": "Employee type code",
+                "DbYs": "Seniority Date",
+                "ViEt": "Employement type code"
+              }
+            }
+          }
+        },
+        {
+          "AfasOrgunitFunction": {
+            "Element": {
+              "@DaBe": "2024-06-13",
+              "Fields": {
+                "DpId": "ALB311",
+                "FuId": "3008",
+                "CcId": "D",
+                "CrId": "CoS510",
+                "U139F822B4F0F8817FC00968B59CAEF24": "03",
+                "U8B46EC444562ED8C5A0E388E8BD7A3B7": "03",
+                "UAC575F644768F5F0BFA8F4BA2D90FE54": "03",
+                "UF4DED243478C4B07D3782CA52373B4AB": "03",
+                "U45C0AFF741A947FD923659FCF0D07CBD": "SAP Salary scale"
+              }
+            }
+          }
+        },
+        {
+          "AfasTimeTable": {
+            "Element": {
+              "@DaBg": "2024-06-13",
+              "Fields": {
+                "EtTy": "5",
+                "DyWk": "5",
+                "HrWk": "40",
+                "PcPt": "100",
+                "Ft": "1"
+              }
+            }
+          }
+        },
+        {
+          "AfasSalary": {
+            "Element": {
+              "@DaBe": "2024-06-13",
+              "Fields": {
+                "SaPe": "V",
+                "EmSa": "5001",
+                "PtId": 5,
+                "SaYe": "0"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
