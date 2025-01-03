@@ -1,0 +1,25 @@
+Nice to have:
+"Taak voor" kolom op Insite duidelijker maken
+Toelichtingen in de workflows
+Actieknop uitschakelen als er nog geen waardes zijn ingevuld voor de vrije velden
+
+Blocking:
+Documenten (ID, paspoort) bij aanvullende gegevens kunnen controleren
+Documenten verwijderen in workflow gaat niet goed
+Document bewerkbaar maken voor HR Controle
+Wanneer je een stap terug gaat in een workflow:
+	Komen de overige documenten te zien in de beoordelen stap
+	Komen de aanpassingen in de vrije velden niet goed door
+	Wordt het document niet goed gegenereerd
+
+Done
+Oproepovereenkomst Rehire testen
+Condities Indienst
+	Werkgever
+	Business Areas
+Per workflow en stroming de vrije velden splitsen
+
+
+Doing
+Arbeidsovereenkomst Rehire afmaken
+

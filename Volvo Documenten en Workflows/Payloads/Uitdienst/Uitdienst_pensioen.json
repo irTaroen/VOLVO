@@ -1,0 +1,26 @@
+{
+  "KnSubject": {
+    "Element": {
+      "@SbId": null,
+      "Fields": {
+        "StId": 8,
+        "Ds": "Test Uitdienst Pensioen",
+        "SbTx": "Reason: 31",
+        "FvF1": 225,
+        "ProfileId": 136
+      },
+      "Objects": [
+        {
+          "KnSubjectLink": {
+            "Element": {
+              "Fields": {
+                "ToEm": true,
+                "BcId": "020160"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

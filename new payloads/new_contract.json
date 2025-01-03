@@ -1,0 +1,26 @@
+{
+  "AfasEmployee": {
+    "Element": {
+      "@EmId": "AFAS employee ID",
+      "Objects": [
+        {
+          "AfasContract": {
+            "Element": {
+              "@DaBe": "Start Date New Contract",
+              "Fields": {
+                "ClId": "CLA code",
+                "WcId": "Conditions of employement code",
+                "ApCo": "Type of contract code",
+                "DaEn": "Contract End Date",
+                "CmId": "Employer ID",
+                "EmMt": "Employee type code",
+                "DbYs": "Seniority Date",
+                "ViEt": "Employement type code"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+    "AfasEmployee": {
+        "Element": {
+            "@EmId": "040026",
+            "Objects": [
+                {
+                    "AfasContract": {
+                        "Element": {
+                            "@DaBe": "2024-11-08",
+                            "Fields": {
+                                "ClId": "Basis",
+                                "WcId": "VGN",
+                                "ApCo": "B",
+                                "DaEn": "2025-05-31",
+                                "CmId": "04",
+                                "EmMt": "1",
+                                "DbYs": "2022-06-01",
+                                "ViEt": "V"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "AfasEmployee": {
+        "Element": {
+            "@EmId": "040026",
+            "Objects": [
+                {
+                    "AfasContract": {
+                        "Element": {
+                            "@DaBe": "2024-11-09",
+                            "Fields": {
+                                "ClId": "Basis",
+                                "WcId": "VGN",
+                                "ApCo": "B",
+                                "DaEn": "2025-05-31",
+                                "CmId": "04",
+                                "EmMt": "1",
+                                "DbYs": "2022-06-01",
+                                "ViEt": "V"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "KnSubject": {
+        "Element": {
+            "Fields": {
+                "StId": "8",
+                "Ds": "Contract Extension 040026",
+                "SbTx": "Effective date: 2024-11-08",
+                "FvF1": "226",
+                "ProfileId": "138"
+            },
+            "Objects": [
+                {
+                    "KnSubjectLink": {
+                        "Element": {
+                            "Fields": {
+                                "ToEm": true,
+                                "BcId": "040026"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "KnSubject": {
+        "Element": {
+            "Fields": {
+                "StId": "8",
+                "Ds": "Contract Extension 040026",
+                "SbTx": "Effective date: 2024-11-09",
+                "FvF1": "226",
+                "ProfileId": "138"
+            },
+            "Objects": [
+                {
+                    "KnSubjectLink": {
+                        "Element": {
+                            "Fields": {
+                                "ToEm": true,
+                                "BcId": "040026"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

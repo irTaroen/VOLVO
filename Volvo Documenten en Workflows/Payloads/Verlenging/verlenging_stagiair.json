@@ -1,0 +1,24 @@
+{
+  "KnSubject": {
+    "Element": {
+      "Fields": {
+        "StId": 8,
+        "Ds": "Test Contractverlenging Stagiair",
+        "FvF1": 226,
+        "ProfileId": 138
+      },
+      "Objects": [
+        {
+          "KnSubjectLink": {
+            "Element": {
+              "Fields": {
+                "ToEm": true,
+                "BcId": "020520"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

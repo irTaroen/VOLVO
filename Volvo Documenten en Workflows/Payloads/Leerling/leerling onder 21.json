@@ -1,0 +1,26 @@
+{
+  "KnSubject": {
+    "Element": {
+      "@SbId": null,
+      "Fields": {
+        "StId": 8,
+        "Ds": "Test Leerling monteur <21",
+        "SbTx": "",
+        "FvF1": 220,
+        "ProfileId": 137
+      },
+      "Objects": [
+        {
+          "KnSubjectLink": {
+            "Element": {
+              "Fields": {
+                "ToEm": true,
+                "BcId": "Vries"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

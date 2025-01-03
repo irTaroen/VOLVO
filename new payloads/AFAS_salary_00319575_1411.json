@@ -1,0 +1,59 @@
+{
+    "AfasEmployee": {
+        "Element": {
+            "@EmId": "040004",
+            "Fields": {
+                "U882484F24E2F48FBBB5A797D20E44DC3": "01"
+            },
+            "Objects": [
+                {
+                    "KnPerson": {
+                        "Element": {
+                            "Fields": {
+                                "MatchPer": "0",
+                                "BcCo": "040004"
+                            }
+                        }
+                    }
+                },
+                {
+                    "AfasSalary": {
+                        "Element": {
+                            "@DaBe": "2024-11-08",
+                            "Fields": {
+                                "SaPe": "V",
+                                "EmSa": "6200.0",
+                                "PtId": 5,
+                                "SaYe": "0"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "KnSubject": {
+        "Element": {
+            "Fields": {
+                "StId": "8",
+                "Ds": "Salary 040004",
+                "SbTx": "Effective date: 2024-11-08",
+                "FvF1": "220",
+                "ProfileId": "137"
+            },
+            "Objects": [
+                {
+                    "KnSubjectLink": {
+                        "Element": {
+                            "Fields": {
+                                "ToEm": true,
+                                "BcId": "040004"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

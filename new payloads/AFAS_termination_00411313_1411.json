@@ -1,0 +1,25 @@
+{
+    "KnSubject": {
+        "Element": {
+            "Fields": {
+                "StId": "8",
+                "Ds": "Medewerker Frans Velthuizen 040011 uit dienst melden",
+                "SbTx": "Medewerker 040011 gaat uit dienst per 2024-11-09. Reason: 20",
+                "FvF1": "225",
+                "ProfileId": "136"
+            },
+            "Objects": [
+                {
+                    "KnSubjectLink": {
+                        "Element": {
+                            "Fields": {
+                                "ToEm": true,
+                                "BcId": "040011"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

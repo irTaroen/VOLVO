@@ -1,0 +1,258 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Pagina-1" id="OrpUujrkfRnddVPxORlL">
+    <mxGraphModel dx="3044" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-3" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="610" width="530" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-53" value="" style="group" parent="Wjo8LHTABh31IqdMUJQ_-3" vertex="1" connectable="0">
+          <mxGeometry width="530" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-53" vertex="1">
+          <mxGeometry width="530" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-6" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;table style=&quot;forced-color-adjust: none; width: 299pt;&quot; width=&quot;398&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody style=&quot;forced-color-adjust: none;&quot;&gt;&lt;tr style=&quot;forced-color-adjust: none; height: 60pt;&quot; height=&quot;80&quot;&gt;&lt;td style=&quot;forced-color-adjust: none; height: 60pt; width: 299pt;&quot; width=&quot;398&quot; class=&quot;xl64&quot; height=&quot;80&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&amp;lt;Bepaalde Tijd&amp;gt;&lt;/b&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; text-align: left;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;Hierbij bevestigen wij dat je huidige arbeidsovereenkomst voor bepaalde tijd niet zal worden verlengd. Dit betekent dat de arbeidsovereenkomst van rechtswege zal eindigen op DATUM.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; text-align: left;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; text-align: left;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;De eindafrekening vindt plaats in de maand na uitdiensttreding. Heb je vragen, stel ze aan je manager of de afdeling People &amp;amp; Culture. Het opnemen van eventueel resterende verlofdagen gaat in overleg met jouw manager.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&amp;lt;Bepaalde Tijd&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-53" vertex="1">
+          <mxGeometry x="10" y="410" width="510" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-5" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b&gt;&amp;lt;Onbepaalde Tijd&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;table style=&quot;forced-color-adjust: none; width: 299pt;&quot; width=&quot;398&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody style=&quot;forced-color-adjust: none;&quot;&gt;&lt;tr style=&quot;forced-color-adjust: none; height: 60pt;&quot; height=&quot;80&quot;&gt;&lt;td style=&quot;forced-color-adjust: none; height: 60pt; width: 299pt;&quot; width=&quot;398&quot; class=&quot;xl64&quot; height=&quot;80&quot;&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;Hierbij&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;bevestigen wij jouw opzegging van het dienstverband bij WERKGEVERSNAAM.&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;Rekening houdend met de wettelijke opzegtermijn wordt jouw dienstverband&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;beëindigd per DATUM.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;De eindafrekening vindt plaats in de maand na uitdiensttreding. Heb je vragen, stel ze aan je manager of de afdeling People &amp;amp; Culture. Het opnemen van eventueel resterende verlofdagen gaat in overleg met jouw manager.&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Het afgelopen jaar ben je in aanmerking gekomen voor een bonusregeling. Zodra het resultaat hiervan bekend is wordt dit aan je uitgekeerd in lijn met de STI policy van de Volvo Group.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Onbepaalde Tijd&amp;gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-53" vertex="1">
+          <mxGeometry x="10" y="120" width="510" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aanhef&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Standaard gegevens&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=24;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-53" vertex="1">
+          <mxGeometry x="10" y="10" width="510" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-9" value="&#xa;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&amp;lt;Reden = werkgever of werknemer&amp;gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;container=0;fillColor=none;" parent="3NCe1_gEZEWykzOJ7Q9D-53" vertex="1">
+          <mxGeometry x="50" y="840" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-8" value="&#xa;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&amp;lt;Reden = werkgever of werknemer&amp;gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;container=0;fillColor=none;" parent="3NCe1_gEZEWykzOJ7Q9D-53" vertex="1">
+          <mxGeometry x="40" y="93" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-42" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wij vertrouwen erop dat je de bovengenoemde eigendommen van WERKGEVER in goede staat retourneert en uiterlijk inlevert op de laatste werkdag. We gaan ervanuit je hiermee naar behoren geïnformeerd te hebben en wensen je veel succes in de toekomst.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Laptop&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefoon&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tablet&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Auto&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; padding-right: 1px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wagenparkbeheerder neemt contact op over het inleveren van jouw company car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-53" vertex="1">
+          <mxGeometry x="10" y="608" width="510" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-1" value="Uitdienst - WN met afspraken" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="840" y="560" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-2" value="Uitdienst -&amp;nbsp; Pensioenering" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1410" y="560" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-10" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1270" y="590" width="510" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-66" value="" style="group" parent="Wjo8LHTABh31IqdMUJQ_-10" vertex="1" connectable="0">
+          <mxGeometry y="20" width="510" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-11" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=27;spacingTop=-7;spacingBottom=53;" parent="3NCe1_gEZEWykzOJ7Q9D-66" vertex="1">
+          <mxGeometry width="510" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-15" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Door middel van deze brief bevestigen wij dat jouw dienstverband, met in acht neming van het bereiken van de pensioengerechtigde leeftijd, beëindigd zal worden door pensionering op DATUM.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Wij danken je hartelijk voor jouw inzet voor onze organisatie in de afgelopen jaren en wensen je veel geluk en gezondheid toe tijdens jouw welverdiende pensioen.&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Je komt in aanmerking voor een bonusregeling. Zodra het resultaat hiervan bekend is wordt dit aan je uitgekeerd in lijn met de STI policy van de Volvo Group.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingLeft=8;spacingRight=5;" parent="3NCe1_gEZEWykzOJ7Q9D-66" vertex="1">
+          <mxGeometry x="10" y="108" width="490" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aanhef&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Standaard gegevens&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=24;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-66" vertex="1">
+          <mxGeometry x="10" y="10" width="490" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-64" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wij vertrouwen erop dat je de bovengenoemde eigendommen van WERKGEVER in goede staat retourneert en uiterlijk inlevert op de laatste werkdag. We gaan ervanuit je hiermee naar behoren geïnformeerd te hebben en wensen je veel succes in de toekomst.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Laptop&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefoon&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tablet&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Auto&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; padding-right: 1px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wagenparkbeheerder neemt contact op over het inleveren van jouw company car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-66" vertex="1">
+          <mxGeometry x="10" y="300" width="490" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjo8LHTABh31IqdMUJQ_-17" value="" style="group;strokeColor=default;container=0;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="230" y="60" width="1186" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_DhB06sdjJsT0hwdy9NF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4trvLBDzROyu60vLL5fN-2" target="_DhB06sdjJsT0hwdy9NF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4trvLBDzROyu60vLL5fN-2" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;SF: Medewerker uitdienst gemeld&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;align=center;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="240" y="284" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4trvLBDzROyu60vLL5fN-15" target="vdIR4pnB3bWwXbp3v-ET-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="390" />
+              <mxPoint x="990" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-41" value="Wel Voorwaarden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vdIR4pnB3bWwXbp3v-ET-11" vertex="1" connectable="0">
+          <mxGeometry x="0.0483" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4trvLBDzROyu60vLL5fN-15" target="3NCe1_gEZEWykzOJ7Q9D-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="390" />
+              <mxPoint x="990" y="289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-38" value="Geen Voorwaarden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3NCe1_gEZEWykzOJ7Q9D-37" vertex="1" connectable="0">
+          <mxGeometry x="0.0366" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4trvLBDzROyu60vLL5fN-15" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Selecteer Voorwaarden&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="790" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4trvLBDzROyu60vLL5fN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4trvLBDzROyu60vLL5fN-22" target="4trvLBDzROyu60vLL5fN-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4trvLBDzROyu60vLL5fN-22" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reden = 20&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="580" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_DhB06sdjJsT0hwdy9NF-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="536" y="460" as="sourcePoint" />
+            <mxPoint x="536" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_DhB06sdjJsT0hwdy9NF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_DhB06sdjJsT0hwdy9NF-2" target="4trvLBDzROyu60vLL5fN-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="290" />
+              <mxPoint x="550" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_DhB06sdjJsT0hwdy9NF-2" target="vdIR4pnB3bWwXbp3v-ET-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="290" />
+              <mxPoint x="550" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_DhB06sdjJsT0hwdy9NF-2" target="vdIR4pnB3bWwXbp3v-ET-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="290" />
+              <mxPoint x="550" y="289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_DhB06sdjJsT0hwdy9NF-2" value="&lt;b&gt;PAYLOAD&lt;/b&gt;&lt;div&gt;&lt;b&gt;Workflow&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Type: 8&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kenmerk: 225&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Data naar AFAS&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Einddatum&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Reden&lt;/div&gt;&lt;div&gt;- AFAS ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="390" y="229" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_DhB06sdjJsT0hwdy9NF-9" value="Controles en ondertekenen" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="1256" y="249" width="144" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_DhB06sdjJsT0hwdy9NF-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="492" y="220" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vdIR4pnB3bWwXbp3v-ET-3" target="_DhB06sdjJsT0hwdy9NF-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: 700;&quot;&gt;Uitdienst -&amp;nbsp; Pensioenering&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="167.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vdIR4pnB3bWwXbp3v-ET-6" target="3NCe1_gEZEWykzOJ7Q9D-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reden = 31&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="580" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vdIR4pnB3bWwXbp3v-ET-7" target="3NCe1_gEZEWykzOJ7Q9D-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Andere reden&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="580" y="259" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vdIR4pnB3bWwXbp3v-ET-9" target="_DhB06sdjJsT0hwdy9NF-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="435" />
+              <mxPoint x="1210" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: 700;&quot;&gt;Uitdienst - WN met afspraken&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="710" y="350" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vdIR4pnB3bWwXbp3v-ET-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="710" y="155" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3NCe1_gEZEWykzOJ7Q9D-26" target="_DhB06sdjJsT0hwdy9NF-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: 700;&quot;&gt;Uitdienst - WG/WN&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="254.5" width="120" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="_DhB06sdjJsT0hwdy9NF-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="702" y="274" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-52" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="700" y="610" width="530" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-45" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry width="530" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-44" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Afspraak: vrijstelling van werk&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;In verband met jouw huidige positie binnen de organisatie en toekomstige baan ben je per DATUM vrijgesteld van werkzaamheden.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Afspraak: vrijstelling van werk&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Afspraak: uitbetaling verlof&amp;gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;nog in te vullen door Volvo&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Afspraak: uitbetaling verlof&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry x="10" y="848" width="510" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-46" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;table style=&quot;forced-color-adjust: none; width: 299pt;&quot; width=&quot;398&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody style=&quot;forced-color-adjust: none;&quot;&gt;&lt;tr style=&quot;forced-color-adjust: none; height: 60pt;&quot; height=&quot;80&quot;&gt;&lt;td style=&quot;forced-color-adjust: none; height: 60pt; width: 299pt;&quot; width=&quot;398&quot; class=&quot;xl64&quot; height=&quot;80&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&amp;lt;Bepaalde Tijd&amp;gt;&lt;/b&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; text-align: left;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;Hierbij bevestigen wij dat je huidige arbeidsovereenkomst voor bepaalde tijd niet zal worden verlengd. Dit betekent dat de arbeidsovereenkomst van rechtswege zal eindigen op DATUM.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; text-align: left;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; text-align: left;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;De eindafrekening vindt plaats in de maand na uitdiensttreding. Heb je vragen, stel ze aan je manager of de afdeling People &amp;amp; Culture. Het opnemen van eventueel resterende verlofdagen gaat in overleg met jouw manager.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&amp;lt;Bepaalde Tijd&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry x="10" y="410" width="510" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-47" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b&gt;&amp;lt;Onbepaalde Tijd&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;table style=&quot;forced-color-adjust: none; width: 299pt;&quot; width=&quot;398&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody style=&quot;forced-color-adjust: none;&quot;&gt;&lt;tr style=&quot;forced-color-adjust: none; height: 60pt;&quot; height=&quot;80&quot;&gt;&lt;td style=&quot;forced-color-adjust: none; height: 60pt; width: 299pt;&quot; width=&quot;398&quot; class=&quot;xl64&quot; height=&quot;80&quot;&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;Hierbij&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;bevestigen wij jouw opzegging van het dienstverband bij WERKGEVERSNAAM.&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;Rekening houdend met de wettelijke opzegtermijn wordt jouw dienstverband&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;beëindigd per DATUM.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;De eindafrekening vindt plaats in de maand na uitdiensttreding. Heb je vragen, stel ze aan je manager of de afdeling People &amp;amp; Culture. Het opnemen van eventueel resterende verlofdagen gaat in overleg met jouw manager.&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Het afgelopen jaar ben je in aanmerking gekomen voor een bonusregeling. Zodra het resultaat hiervan bekend is wordt dit aan je uitgekeerd in lijn met de STI policy van de Volvo Group.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: initial;&quot;&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Onbepaalde Tijd&amp;gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry x="10" y="120" width="510" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-48" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aanhef&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Standaard gegevens&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=24;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry x="10" y="10" width="510" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-49" value="&#xa;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&amp;lt;Reden = werkgever of werknemer&amp;gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;container=0;fillColor=none;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry x="40" y="978" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-50" value="&#xa;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&amp;lt;Reden = werkgever of werknemer&amp;gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;container=0;fillColor=none;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry x="40" y="93" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-51" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wij vertrouwen erop dat je de bovengenoemde eigendommen van WERKGEVER in goede staat retourneert en uiterlijk inlevert op de laatste werkdag. We gaan ervanuit je hiermee naar behoren geïnformeerd te hebben en wensen je veel succes in de toekomst.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Laptop&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefoon&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tablet&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Auto&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; padding-right: 1px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wagenparkbeheerder neemt contact op over het inleveren van jouw company car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-52" vertex="1">
+          <mxGeometry x="10" y="608" width="510" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-54" value="Uitdienst - WG/WN" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="260" y="560" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-56" value="Uitdienst -&amp;nbsp; Pensioen Eerder" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1969" y="560" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-57" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1820" y="610" width="510" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-58" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=27;spacingTop=-7;spacingBottom=53;" parent="3NCe1_gEZEWykzOJ7Q9D-57" vertex="1">
+          <mxGeometry width="510" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-61" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Enige tijd geleden heb je uitgesproken dat je de keuze maakt om per DATUM te stoppen met werken en dus eerder dan de pensioengerechtigde leeftijd met pensioen te gaan.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingLeft=6;spacingRight=7;" parent="3NCe1_gEZEWykzOJ7Q9D-57" vertex="1">
+          <mxGeometry x="10" y="100" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aanhef&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Standaard gegevens&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=24;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-57" vertex="1">
+          <mxGeometry x="10" y="10" width="490" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-65" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wij vertrouwen erop dat je de bovengenoemde eigendommen van WERKGEVER in goede staat retourneert en uiterlijk inlevert op de laatste werkdag. We gaan ervanuit je hiermee naar behoren geïnformeerd te hebben en wensen je veel succes in de toekomst.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Laptop&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Telefoon&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tablet&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Auto&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;lt;eigendommen&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; padding-right: 1px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wagenparkbeheerder neemt contact op over het inleveren van jouw company car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;lt;Company Car&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="3NCe1_gEZEWykzOJ7Q9D-57" vertex="1">
+          <mxGeometry x="10" y="170" width="490" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: 700;&quot;&gt;Uitdienst -&amp;nbsp; Pensioenering (eerder)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="80" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3NCe1_gEZEWykzOJ7Q9D-69" target="3NCe1_gEZEWykzOJ7Q9D-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-74" value="&lt;b&gt;JA&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3NCe1_gEZEWykzOJ7Q9D-72" vertex="1" connectable="0">
+          <mxGeometry x="0.08" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3NCe1_gEZEWykzOJ7Q9D-69" target="vdIR4pnB3bWwXbp3v-ET-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-75" value="&lt;b&gt;NEE&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3NCe1_gEZEWykzOJ7Q9D-73" vertex="1" connectable="0">
+          <mxGeometry x="0.4031" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NCe1_gEZEWykzOJ7Q9D-69" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Vervroegd pensioen?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="780" y="169" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

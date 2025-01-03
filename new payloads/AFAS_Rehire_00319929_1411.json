@@ -1,0 +1,134 @@
+{
+    "AfasEmployee": {
+        "Element": {
+            "@EmId": "040007",
+            "Fields": {
+                "ViSe": "I",
+                "Bl": false,
+                "U32F8A9F34FBFCC3A21D097AFA13AE67A": "VCE",
+                "UFC4153C2423DF2DE5DD96B85B1DFCF95": "W",
+                "UDDCDAF0444878FAE3D8FC9AD99BFE7CA": "GA",
+                "U882484F24E2F48FBBB5A797D20E44DC3": "01"
+            },
+            "Objects": [
+                {
+                    "KnPerson": {
+                        "Element": {
+                            "Fields": {
+                                "MatchPer": "0",
+                                "BcCo": "14370"
+                            }
+                        }
+                    }
+                },
+                {
+                    "AfasContract": {
+                        "Element": {
+                            "@DaBe": "2024-11-08",
+                            "Fields": {
+                                "ClId": "Basis",
+                                "WcId": "VGN",
+                                "CmId": "04",
+                                "EmMt": "1",
+                                "DbYs": "2024-11-08",
+                                "ViEt": "V"
+                            }
+                        }
+                    }
+                },
+                {
+                    "AfasOrgunitFunction": {
+                        "Element": {
+                            "@DaBe": "2024-11-08",
+                            "Fields": {
+                                "DpId": "VCE201",
+                                "FuId": "8013",
+                                "CcId": "Profit",
+                                "CrId": "DB008",
+                                "UFDA9A87B5EA647CC97A348DF5FCF5C5A": "NLD_SG7"
+                            }
+                        }
+                    }
+                },
+                {
+                    "AfasTimeTable": {
+                        "Element": {
+                            "@DaBg": "2024-11-08",
+                            "Fields": {
+                                "EtTy": "5",
+                                "DyWk": "5",
+                                "HrWk": "40.0",
+                                "PcPt": "100.0",
+                                "Ft": "1.0"
+                            }
+                        }
+                    }
+                },
+                {
+                    "AfasSalary": {
+                        "Element": {
+                            "@DaBe": "2024-11-08",
+                            "Fields": {
+                                "SaPe": "V",
+                                "EmSa": "5000.0",
+                                "PtId": 5,
+                                "SaYe": 0
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "KnSubject": {
+        "Element": {
+            "Fields": {
+                "StId": "8",
+                "Ds": "Rehire 040007",
+                "SbTx": "Effective date: 2024-11-08",
+                "FvF1": "230",
+                "ProfileId": "135"
+            },
+            "Objects": [
+                {
+                    "KnSubjectLink": {
+                        "Element": {
+                            "Fields": {
+                                "ToEm": true,
+                                "BcId": "14370"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "AfasEmployee": {
+        "Element": {
+            "@EmId": "040007",
+            "Objects": [
+                {
+                    "KnPerson": {
+                        "Element": {
+                            "Fields": {
+                                "MatchPer": "0",
+                                "BcCo": "14370",
+                                "CaNm": "Regina",
+                                "LaNm": "Kim",
+                                "NmBi": "Kim",
+                                "PsNa": "NL",
+                                "ViGe": "V",
+                                "ViCs": "GH",
+                                "MbNr": "+31888823512",
+                                "EmAd": "regina.kim@volvo.com",
+                                "IsBi": ""
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

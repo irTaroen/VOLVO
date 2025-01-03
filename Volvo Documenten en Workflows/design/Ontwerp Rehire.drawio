@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Pagina-1" id="_t3SVha-dXaKS5IRd0l7">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fEMTDxgutxU17fTTrBgV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fEMTDxgutxU17fTTrBgV-4" target="fEMTDxgutxU17fTTrBgV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-4" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Medewerker contract verlengd&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="180" y="345" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fEMTDxgutxU17fTTrBgV-7" target="fEMTDxgutxU17fTTrBgV-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAy_XVvgRi5ZDtFg89OA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fEMTDxgutxU17fTTrBgV-7" target="bAy_XVvgRi5ZDtFg89OA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-7" value="&lt;b&gt;Workflow&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Type: 8&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Kenmerk: 230&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Data naar AFAS&lt;/b&gt;&lt;div&gt;&lt;div&gt;- Einddatum Contract&lt;/div&gt;&lt;div&gt;- Type Contact&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Dienstbetrekking&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Functie&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Department&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Salaris&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Company Car&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Rooster&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Business Area Code&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Location Group Code&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Collar Type Code&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="360" y="236.25" width="171" height="267.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fEMTDxgutxU17fTTrBgV-20" target="fEMTDxgutxU17fTTrBgV-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-20" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Dienstbetrekking = Oproepkracht&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="638" y="395" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fEMTDxgutxU17fTTrBgV-23" target="agt8l6OKXLWr03K1kBNd-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-23" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Oproepovereenkomst&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="390" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fEMTDxgutxU17fTTrBgV-25" target="agt8l6OKXLWr03K1kBNd-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-25" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Volvo AOK&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="265" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fEMTDxgutxU17fTTrBgV-33" target="fEMTDxgutxU17fTTrBgV-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-41" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fEMTDxgutxU17fTTrBgV-39" vertex="1" connectable="0">
+          <mxGeometry x="-0.3667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAy_XVvgRi5ZDtFg89OA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fEMTDxgutxU17fTTrBgV-33" target="fEMTDxgutxU17fTTrBgV-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="897" y="355" />
+              <mxPoint x="1340" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAy_XVvgRi5ZDtFg89OA-10" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bAy_XVvgRi5ZDtFg89OA-9">
+          <mxGeometry x="-0.5006" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-33" value="&lt;div&gt;Company Car&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="822" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bAy_XVvgRi5ZDtFg89OA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fEMTDxgutxU17fTTrBgV-35" target="fEMTDxgutxU17fTTrBgV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEMTDxgutxU17fTTrBgV-35" value="Kies type company car" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="277.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="630" as="sourcePoint" />
+            <mxPoint x="560" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="510" y="227.5" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="972" y="260" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="760" y="409" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="agt8l6OKXLWr03K1kBNd-19" value="Controles en ondertekenen" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bAy_XVvgRi5ZDtFg89OA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bAy_XVvgRi5ZDtFg89OA-1" target="fEMTDxgutxU17fTTrBgV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAy_XVvgRi5ZDtFg89OA-1" value="&lt;div&gt;Dienstbetrekking = Personeelslid&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="638" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bAy_XVvgRi5ZDtFg89OA-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#3333FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="262.5" width="28" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

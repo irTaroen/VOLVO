@@ -1,0 +1,62 @@
+{
+    "AfasEmployee": {
+        "Element": {
+            "@EmId": "040002",
+            "Fields": {
+                "U32F8A9F34FBFCC3A21D097AFA13AE67A": "VCE",
+                "UFC4153C2423DF2DE5DD96B85B1DFCF95": "W",
+                "UDDCDAF0444878FAE3D8FC9AD99BFE7CA": "GA"
+            },
+            "Objects": [
+                {
+                    "KnPerson": {
+                        "Element": {
+                            "Fields": {
+                                "MatchPer": "0",
+                                "BcCo": "040002"
+                            }
+                        }
+                    }
+                },
+                {
+                    "AfasOrgunitFunction": {
+                        "Element": {
+                            "@DaBe": "2024-11-08",
+                            "Fields": {
+                                "DpId": "VCE201",
+                                "FuId": "8001",
+                                "CcId": "Profit",
+                                "CrId": "DB008",
+                                "UFDA9A87B5EA647CC97A348DF5FCF5C5A": "NLD_SG4"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}{
+    "KnSubject": {
+        "Element": {
+            "Fields": {
+                "StId": "8",
+                "Ds": "Function 040002",
+                "SbTx": "Effective date: 2024-11-08",
+                "FvF1": "220",
+                "ProfileId": "137"
+            },
+            "Objects": [
+                {
+                    "KnSubjectLink": {
+                        "Element": {
+                            "Fields": {
+                                "ToEm": true,
+                                "BcId": "040002"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

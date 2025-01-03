@@ -1,0 +1,17 @@
+{
+  "HrCreateApplicant": {
+    "Element": {
+      "Fields": {
+        "VcSn": 151,
+        "CaNm": "Jan",
+        "FiNm": "Jan",
+        "LaNm": "van de Boer",
+        "ViGe": "M",
+        "EmAd": "toxexa9354@jameagle.com",
+        "EmA2": "toxexa9354@jameagle.com",
+        "MbN2": "0637233274",
+        "StId": "E283E23A462AC589270555979875314E"
+      }
+    }
+  }
+}
